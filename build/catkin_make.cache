@@ -1,0 +1,2 @@
+green
+-DCATKIN_DEVEL_PREFIX=/home/samuel/green/devel -DCMAKE_INSTALL_PREFIX=/home/samuel/green/install -G Unix Makefiles

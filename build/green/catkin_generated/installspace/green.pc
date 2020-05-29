@@ -1,0 +1,8 @@
+prefix=/home/samuel/green/install
+
+Name: green
+Description: Description of green
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lgreen
+Requires: other_catkin_pkg
